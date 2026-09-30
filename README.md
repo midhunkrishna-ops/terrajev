@@ -427,7 +427,7 @@ Contributions are welcome! Please submit:
 ### Development Setup
  
 ```bash
-git clone https://github.com/yourusername/terrajev.git
+git clone https://github.com/midhunkrishna-ops/terrajev.git
 cd terrajev
 pip install -e ".[dev]"
 pytest
